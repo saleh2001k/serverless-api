@@ -1,7 +1,7 @@
 # serverless-api
 
 ##### UML :
-![alt](UML.png)
+![alt](UML1.png)
 
 Root URL for the API : [Here](https://lu27xgapxh.execute-api.us-east-1.amazonaws.com/people)
 
